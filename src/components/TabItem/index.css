@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.colored-tab {
+  text-decoration: underline solid 4px;
+  text-decoration-color: #2563eb;
+  outline: none;
+  background-color: transparent;
+  border: none;
+}
+
+.normal-tab {
+  text-decoration: underline solid 4px;
+  text-decoration-color: #7b8794;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.tab-name {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+
+  background-color: transparent;
+}

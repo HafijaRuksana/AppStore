@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.app-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 7px;
+  background-color: #ffffff;
+  width: 85px;
+  height: 85px;
+  padding: 10px;
+  margin: 10px;
+}
+.app-image {
+  width: 25px;
+}
+.app-name {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #1e293b;
+}
